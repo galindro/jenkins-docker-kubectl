@@ -7,6 +7,7 @@ RUN apt-get update && apt-get -y install \
      ca-certificates \
      curl \
      gnupg2 \
+     gettext-base \
      software-properties-common \
      jq
 
